@@ -20,4 +20,3 @@ npx react-native run-android || npx react-native run-ios
 
 ## TEAM
 - Mayank Srivastava
-- Rahul Yadav
